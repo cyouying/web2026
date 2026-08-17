@@ -1,0 +1,155 @@
+body {
+
+	margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background: #000000 url('../task one_images/back_all.jpg') repeat-x top;
+	font-family: Helvetica, sans-serif;
+	font-size: 62.5%;
+	color: #ffffff;
+}
+
+h1, h2, h3, p, ul, li {
+	margin: 0;
+	padding: 0;
+	color: #ffffff;
+
+}
+
+p {
+	font-size: 1.4em;
+	line-height: 1.4em;
+    color: #000000;
+	
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+#masthead {
+	margin: 0 auto ;
+	margin-top: 20px;
+	width: 800px;
+	color: #fff;
+}
+
+#masthead h1 {
+	float: left;
+}
+
+#nav {
+	float: auto;
+	margin: auto;
+	font-size: 1.4em;
+}
+
+ 
+#nav li {
+	display: inline;
+	margin: 0 0 0 30px;
+    background :#df5713;
+}
+
+#nav li a {
+	color: #fff;
+	text-decoration: none;
+	background :#df5713;
+}
+#nav li a:link {
+	color: #ff0000;
+	 
+}
+ 
+#nav li a:visited {
+	color: #ffffff;
+	 
+}
+
+#main {
+	clear: both;
+	margin: 0 auto;
+	padding: 10px;
+	width: 780px;
+	background: #ffffff;
+	border: 10px solid #ffffff;
+}
+
+#main_reel {
+    clear: both;
+    margin: 0 auto ;
+    background: #ee5d09;
+    border-radius: 10px;
+	width: 780px;
+}
+
+#main_reel h2, h3, h4,p{
+	font-size: 1.5em;
+	margin: 5px 0 0 0;
+	padding: 10px;
+	text-align: left;
+}
+
+#main_reel img {
+	width: 780px;
+	margin: 0 0 10px 0;
+}
+
+#left_sidebar, #right_sidebar {
+	width: 360px;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+}
+
+#left_sidebar {
+	float: left;
+}
+
+#left_sidebar h2 {
+	font-size: 1.5em;
+	margin: auto;
+    background: #ee5d09
+    
+}
+
+#left_sidebar p {
+	margin: 0 0 10px 0;
+}
+
+#link-list {
+	margin: 20px 0 0 0;
+	font-size: 1.4em;
+}
+
+#link-list li {
+	margin: 0 0 10px 0;
+}
+
+#right_sidebar {
+	float: left;
+	background: #ffffff;
+}
+
+#right_sidebar h2 {
+    float: center;
+	font-weight: bold;
+	border-bottom: 5px solid #e8a269;
+    background: #ee5d09;
+    border-radius: 5px;
+	margin: 0 0 20px 0;
+	padding: 5px;
+}
+
+
+
+
+#footer {
+	clear: both;
+	background: #ffffff;
+	padding: 10px;
+	border-top: 2px solid #ffffff;
+	text-align: left;
+	color: #ffffff;
+}
+  
